@@ -1,0 +1,11 @@
+{
+  "version": "1.1.0",
+  "changelog": "- Moteur bot 1.1.0\n- Profils vitesse checkout\n- Mises à jour distantes via manifest",
+  "modules": {
+    "bstn": {
+      "version": "1.1.0",
+      "url": "https://github.com/noeaubert13-tech/let-him-cooking-updates/releases/download/v1.1.0/bot-1.1.0.zip",
+      "changelog": "Module BSTN 1.1.0"
+    }
+  }
+}
