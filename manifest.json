@@ -1,16 +1,26 @@
 {
-  "version": "1.1.2",
-  "changelog": "- Installation automatique depuis le menu [U]\n- Support archives bot/ et projet complet (v1.1.2.zip)\n- Moteur bot 1.1.2",
+  "version": "1.1.4",
+  "changelog": "- Modules : BSTN, ZALANDO, UNISPORT, TEAMS11 (11teamsports)\n- Checkout rapide Unisport + 11teams (speedMode=fast)\n- Zalando : login, SKU, monitor taille, PayPal webhook, adresse + panier vide\n- Unisport : guest checkout, Chronopost, carte + 3DS\n- TEAMS11 : checkout invité, pays (menu déroulant), carte + 3DS\n- Maj distante : [U] puis I pour installer (fix Windows unzip)\n- Interface : tous les modules listés + numéro de version\n- CSV exemple all (format Adonis multi-modules)\n- Dossier projet réorganisé (scripts/, docs/)",
   "modules": {
     "bstn": {
-      "version": "1.1.2",
-      "url": "https://github.com/noeaubert13-tech/let-him-cooking-updates/releases/download/v1.1.2/v1.1.2.zip",
-      "changelog": "Module BSTN 1.1.2"
+      "version": "1.1.4",
+      "url": "https://github.com/noeaubert13-tech/let-him-cooking-updates/releases/download/v1.1.4/v1.1.4.zip",
+      "changelog": "BSTN 1.1.4"
     },
     "zalando": {
-      "version": "1.1.2",
-      "url": "https://github.com/noeaubert13-tech/let-him-cooking-updates/releases/download/v1.1.2/v1.1.2.zip",
-      "changelog": "Module Zalando 1.1.2"
+      "version": "1.1.4",
+      "url": "https://github.com/noeaubert13-tech/let-him-cooking-updates/releases/download/v1.1.4/v1.1.4.zip",
+      "changelog": "Zalando 1.1.4 — login, SKU, PayPal, CapSolver"
+    },
+    "unisport": {
+      "version": "1.1.4",
+      "url": "https://github.com/noeaubert13-tech/let-him-cooking-updates/releases/download/v1.1.4/v1.1.4.zip",
+      "changelog": "Unisport 1.1.4 — SKU, checkout rapide, carte + 3DS"
+    },
+    "teams11": {
+      "version": "1.1.4",
+      "url": "https://github.com/noeaubert13-tech/let-him-cooking-updates/releases/download/v1.1.4/v1.1.4.zip",
+      "changelog": "11 Team Sports 1.1.4 — FD6723, checkout invité, carte + 3DS"
     }
   }
 }
