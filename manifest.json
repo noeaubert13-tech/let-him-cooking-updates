@@ -1,16 +1,11 @@
 {
-  "version": "1.1.0",
-  "changelog": "- Module Zalando (login, SKU, surveillance taille, carte cadeau, PayPal webhook)\n- CapSolver pour CAPTCHA Zalando\n- Moteur bot 1.1.0 + profils vitesse checkout",
+  "version": "1.1.2",
+  "changelog": "- Modules Unisport, 11teamsports (TEAMS11)\n- Correctifs checkout\n- ...",
   "modules": {
     "bstn": {
-      "version": "1.1.0",
-      "url": "https://github.com/noeaubert13-tech/let-him-cooking-updates/releases/download/v1.1.0/bot-1.1.0.zip",
-      "changelog": "Module BSTN 1.1.0"
-    },
-    "zalando": {
-      "version": "1.1.0",
-      "url": "https://github.com/noeaubert13-tech/let-him-cooking-updates/releases/download/v1.1.0/bot-1.1.0.zip",
-      "changelog": "Module Zalando 1.1.0 — login, monitor taille, CapSolver, PayPal webhook"
+      "version": "1.1.2",
+      "url": "https://github.com/noeaubert13-tech/let-him-cooking-updates/releases/download/v1.1.2/v1.1.2.zip",
+      "changelog": "Bot 1.1.2"
     }
   }
 }
