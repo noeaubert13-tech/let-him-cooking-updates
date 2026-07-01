@@ -1,21 +1,16 @@
 {
-  "version": "1.1.5",
-  "changelog": "- Module Rockstar (Cartes Bancaires, login, Payer maintenant)\n- Navigateur reste ouvert après paiement\n- Fix parsing CSV + retry carte",
+  "version": "1.1.2",
+  "changelog": "- Installation automatique depuis le menu [U]\n- Support archives bot/ et projet complet (v1.1.2.zip)\n- Moteur bot 1.1.2",
   "modules": {
     "bstn": {
-      "version": "1.1.5",
-      "url": "https://github.com/noeaubert13-tech/let-him-cooking-updates/releases/download/v1.1.5/v1.1.5.zip",
-      "changelog": "Bot 1.1.5 — Rockstar + fixes checkout"
+      "version": "1.1.2",
+      "url": "https://github.com/noeaubert13-tech/let-him-cooking-updates/releases/download/v1.1.2/v1.1.2.zip",
+      "changelog": "Module BSTN 1.1.2"
     },
     "zalando": {
-      "version": "1.1.5",
-      "url": "https://github.com/noeaubert13-tech/let-him-cooking-updates/releases/download/v1.1.5/v1.1.5.zip",
-      "changelog": "Bot 1.1.5"
-    },
-    "rockstar": {
-      "version": "1.1.5",
-      "url": "https://github.com/noeaubert13-tech/let-him-cooking-updates/releases/download/v1.1.5/v1.1.5.zip",
-      "changelog": "Module Rockstar checkout"
+      "version": "1.1.2",
+      "url": "https://github.com/noeaubert13-tech/let-him-cooking-updates/releases/download/v1.1.2/v1.1.2.zip",
+      "changelog": "Module Zalando 1.1.2"
     }
   }
 }
